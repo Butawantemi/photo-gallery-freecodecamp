@@ -2,4 +2,7 @@
     box-sizing: border-box;
 }
 
-.gallery 
+.gallery img {
+    width: 100%;
+    max-width: 350px;
+}
